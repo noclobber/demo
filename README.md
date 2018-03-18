@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading - Adding some more text
 
-just some more updates to log, on a branch
+bound to cause some trouble with git
